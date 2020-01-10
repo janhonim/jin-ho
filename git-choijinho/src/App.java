@@ -7,6 +7,7 @@ public class App {
 		// TODO Auto-generated method stub
 		System.out.println("jkjk");// 최진호 작성		
 		System.out.println("test12345678"); //최진호 작성
+		System.out.println("test12345678"); // 조승연 작성
 	}
 
 }
